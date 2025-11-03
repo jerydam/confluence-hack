@@ -66,8 +66,15 @@ sudo pacman -S nodejs npm
 ```
 
 -----
+### Clone this repository
 
 ### Step 1: Install Dependencies
+```bash
+git clone https://github.com/jerydam/confluence-hack.git
+```
+```bash
+cd confluence-hack
+```
 
 Since you've successfully cloned this repository, install the required packages:
 ```bash
