@@ -89,7 +89,7 @@ Populate it with the required environment variables:
 ```dotenv
 RPC_URL="https://celo-mainnet.g.alchemy.com/v2/paste-alchemy-api-here" 
 PRIVATE_KEY="paste your privatekey here" # Private key of the account that will call the 'withdraw' function
-CONTRACT_ADDRESS="contract address" # The address where you deployed the ConfluenceHack contract
+CONTRACT_ADDRESS="0xDeE2DF3F1b0f4d2944e80F229795335f688f007b" # The address where you deployed the ConfluenceHack contract
 ```
 
 > ⚠️ **Warning:** Never commit your `.env` file to version control. Keep your private key secure!
